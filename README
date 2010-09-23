@@ -1,0 +1,12 @@
+Sandbox repository for me to play with machine learning code as I learn
+about how this field works. Why's it on public github? Because I like having
+a backup space, and I'm too cheap to buy a private repo for it. :)
+
+Seriously: glance through this and play with it if you want, but this is a 
+sandbox. Real stuff I build in the Stats or ML field will get spun out
+into a separate project.
+
+Also note: most of what's here *now* (22-09-2010) is based on the book
+Programming Collective Intelligence, by Toby Segaran. I worked through his 
+examples a few months back, and learned a lot; now I'm coming back to this
+to learn some more. But the credit for what's here now is mostly his.
