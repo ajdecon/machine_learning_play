@@ -1,0 +1,7 @@
+Playing with data mining for unsupervised learning: coauthor analysis
+in ACS journals.  Problem is, what patterns can we see in the distribution
+of coauthorship in journal articles?  Can we build a "social graph" of 
+scientists based on who collaborates on projects together?
+
+journal_authors.py does data mining from ACS journals.
+author_analysis.py is a beginning at doing this analysis.
